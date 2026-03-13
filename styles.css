@@ -44,4 +44,16 @@ a {
 
 .szoveg-doboz{
   background-color: #999999; 
+  width: 1050px;
+  color: white;
+}
+
+#elso{
+  text-align: justify;
+  margin-bottom: 40px;
+}
+
+#jarmu{
+  text-align: right;
+  margin-right: 100px;
 }
